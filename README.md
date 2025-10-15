@@ -1,6 +1,4 @@
-Here’s a **high-quality, professional** `README.md` file tailored for your project — clear, structured, and ready for GitHub or academic submission:
 
----
 
 # 🧑‍⚖️ Legal Document Intelligence using Retrieval-Augmented Generation (RAG)
 
